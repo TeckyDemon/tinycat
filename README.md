@@ -25,6 +25,10 @@
 
 - [Content](#content)
 - [Installation](#installation)
+  - [Debian/Ubuntu](#apt)
+  - [Arch Linux/Manjaro](#pacman)
+  - [CentOS](#yum)
+  - [MacOS](#homebrew)
 - [Usage](#usage)
 - [Authors](#authors)
 - [Contact](#contact)
@@ -32,9 +36,44 @@
 
 ## Installation
 
-### Windows
+### <a name="APT">Debian/Ubuntu based
 
+* Run following commands in the terminal:
 ```
+sudo apt install git perl -y
+git clone "https://github.com/DeBos99/tinycat.git"
+cd tinycat
+./install.sh
+cd ..
+```
+
+### <a name="Pacman">Arch Linux/Manjaro
+
+* Run following commands in the terminal:
+```
+sudo pacman -S git perl --noconfirm
+git clone "https://github.com/DeBos99/tinycat.git"
+cd tinycat
+./install.sh
+cd ..
+```
+
+### <a name="YUM">CentOS
+
+* Run following commands in the terminal:
+```
+sudo yum install git perl -y
+git clone "https://github.com/DeBos99/tinycat.git"
+cd tinycat
+./install.sh
+cd ..
+```
+
+### <a name="Homebrew">MacOS
+
+* Run following commands in the terminal:
+```
+brew install git perl
 git clone "https://github.com/DeBos99/tinycat.git"
 cd tinycat
 ./install.sh

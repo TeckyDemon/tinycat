@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.4] - 2019-07-15
+
+### Fixed
+
+##### [README.md](README.md)
+
+- `Installation` section.
+
 ## [0.0.3] - 2019-07-12
 
 ### Changed
