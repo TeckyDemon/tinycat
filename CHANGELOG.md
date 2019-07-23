@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.5] - 2019-07-21
+## [1.0.4] - 2019-07-23
+
+### Added
+
+- `VERSION`.
+
+### Changed
+
+##### [CHANGELOG.md](CHANGELOG.md)
+
+- Version.
+
+## [1.0.3] - 2019-07-21
 
 ### Fixed
 
@@ -14,7 +26,7 @@ All notable changes to this project will be documented in this file.
 
 - Typo.
 
-## [0.0.4] - 2019-07-15
+## [1.0.2] - 2019-07-15
 
 ### Fixed
 
@@ -22,7 +34,7 @@ All notable changes to this project will be documented in this file.
 
 - `Installation` section.
 
-## [0.0.3] - 2019-07-12
+## [1.0.1] - 2019-07-12
 
 ### Changed
 
@@ -30,7 +42,7 @@ All notable changes to this project will be documented in this file.
 
 - Character in argument.
 
-## [0.0.2] - 2019-07-05
+## [1.0.0] - 2019-07-05
 
 ### Added
 
@@ -38,7 +50,7 @@ All notable changes to this project will be documented in this file.
 - [install.sh](install.sh) file.
 - [README.md](README.md) file.
 
-## [0.0.1] - 2019-07-05
+## [1.0.0] - 2019-07-05
 
 ### Added
 
