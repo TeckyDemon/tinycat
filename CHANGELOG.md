@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2019-08-12
+
+### Removed
+
+- [.gitignore](.gitignore) file.
+
 ## [1.0.6] - 2019-07-28
 
 ### Added
